@@ -5,9 +5,9 @@ Welcome to our team project repository! 🚀 This repository is the home base fo
 This project is part of our journey to sharpen our skills in software development, teamwork, and project management. Over the course of several Scrum meetings, we’ll be collaborating to deliver a fully functional application, following industry-standard development processes.
 
 ## 👥 Team Members
-[Md. Sakif Rahman Mishad] - [Your Role]<br>
-[Moinul Hossain Ashik] - [Role]<br>
-[Md Shahriar Pervez Efti] - [Role]<br>
+Md. Sakif Rahman Mishad - [Your Role]<br>
+Moinul Hossain Ashik - [Role]<br>
+Md Shahriar Pervez Efti - [Role]<br>
 
 ## 🚀 Objectives
 - Apply Agile methodologies in a real-world scenario.
